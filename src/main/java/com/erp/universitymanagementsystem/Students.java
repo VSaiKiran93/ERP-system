@@ -1,4 +1,4 @@
-package com.erp.universitymanagementsystem;
+	package com.erp.universitymanagementsystem;
 
 import org.springframework.data.annotation.Id;
 
